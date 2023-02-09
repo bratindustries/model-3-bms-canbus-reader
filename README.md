@@ -4,4 +4,7 @@ reads cells voltages off the hv controller chargport canbus and vehicle canbus i
 based off work from evtv/collin kidder and Bryan Inkster
 striped down the code to just read cell voltages, soc, temp
 
+works with an ardunio due with a canbus interface
+
+
 requires due_can libary https://github.com/collin80/due_can
